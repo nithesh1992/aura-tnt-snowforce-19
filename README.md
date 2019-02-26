@@ -1,2 +1,2 @@
-# aura-tnt-snowforce-19
+# Read Me
 Lightning tips n tricks SnowForce Hands-On Session code
